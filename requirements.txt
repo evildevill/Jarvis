@@ -10,7 +10,7 @@ colorama==0.4.4
 comtypes==1.1.7
 decorator==4.4.2
 flake8==3.8.4
-future==0.18.2
+future==0.18.3
 geocoder==1.38.1
 geographiclib==1.50
 geopy==2.0.0
