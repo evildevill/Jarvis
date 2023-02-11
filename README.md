@@ -45,6 +45,7 @@ To run this program you will require a bunch of API keys. Register your API key 
   
 ## Installation
 
+- python 3.8.5 Required
 - First clone the repo
 - Make a config.py file and include the following in it:
     ```weather_api_key = "<your_api_key>"
