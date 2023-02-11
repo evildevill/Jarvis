@@ -1,0 +1,13 @@
+References/
+env/
+.vscode/
+__pycache__/
+experiments/
+*.log
+config.py
+*.pickle
+credentials.json
+*note.txt
+*.png
+*.mp4
+*dbs.txt
