@@ -71,7 +71,7 @@ soupsieve==2.0.1
 SpeechRecognition==3.8.1
 toml==0.10.2
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==1.26.17
 wikipedia==1.4.0
 wincertstore==0.2
 wolframalpha==4.1.1
