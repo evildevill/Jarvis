@@ -23,7 +23,7 @@ googleapis-common-protos==1.52.0
 httplib2==0.18.1
 hurry==1.1
 hurry.filesize==0.9
-idna==2.10
+idna==3.7
 isort==5.6.4
 lazy-object-proxy==1.4.3
 lxml==4.6.2
